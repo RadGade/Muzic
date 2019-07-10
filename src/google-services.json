@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1079950275034",
+    "firebase_url": "https://muzic-1ca58.firebaseio.com",
+    "project_id": "muzic-1ca58",
+    "storage_bucket": "muzic-1ca58.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079950275034:android:27377de4a643f454",
+        "android_client_info": {
+          "package_name": "com.projectmuzic.muzic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1079950275034-7nj5cq34a2qp7lcq2g5tl4hnpg9bhco4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVHTMfadn4G0ex0w8HcmWHfzJcdyiNiuY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1079950275034-7nj5cq34a2qp7lcq2g5tl4hnpg9bhco4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
